@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sky-xyz
+- 👀 I’m interested in ERC-721 and upgrades
+- 🌱 I’m currently learning ERC-1155 and Dutch Auctions
+- 💞️ I’m looking to collaborate on Web3 Dev Medium articles
+- 📫 How to reach me sky@wild.xyz
