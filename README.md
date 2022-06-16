@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @sky-xyz
-- 👀 I’m interested in ERC-721 and upgrades
+- 👀 I’m interested in ERC-721 and upgrades (i.e. ERC-721A)
 - 🌱 I’m currently learning ERC-1155 and Dutch Auctions
 - 💞️ I’m looking to collaborate on Web3 Dev Medium articles
-- 📫 How to reach me sky@wild.xyz
+- 📫 How to reach me [sky@wild.xyz](mailto:sky@wild.xyz)
+- 👾 Discord: [reachforthesky#9567](https://discord.com/reachforthesky#9567)
+- 🐦 Twitter: @[r3achforthesky](https://twitter.com/r3achforthesky)
